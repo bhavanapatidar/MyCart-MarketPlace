@@ -1,0 +1,15 @@
+.products_page {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  padding: 20px;
+}
+.products_sidebar {
+  width: 20%;
+  background-color: #f4f4f4;
+  padding: 10px;
+}
+.products_list_section {
+  width: 80%;
+  padding: 10px;
+  background-color: #fff;
+}
