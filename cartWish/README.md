@@ -19,3 +19,4 @@ If you are developing a production application, we recommend using TypeScript wi
 3. React hoook form library
 4. form Validation using Zod
 5. Handling file or image Input   
+6.
